@@ -1119,6 +1119,7 @@ premium services
 - [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Mylar](https://github.com/evilhero/mylar) An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
 - [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+- [PlexGuide](https://plexguide.com) Deploy a multi-app supported Plex Server with an HD or GDrive (Unlimited Space) through UB16/18 & Debian - Ansible & Docker - /w PGBox, PGDrives & PGBlitz!
 - [CloudBox](https://cloudbox.works/) An All-In-One, Cloud Centric, Media Server Solution
 - [Piracy and automation, an overview](https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
 
